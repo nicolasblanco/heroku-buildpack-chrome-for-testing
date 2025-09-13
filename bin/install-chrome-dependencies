@@ -30,6 +30,7 @@ case "${STACK}" in
       libxfixes3
       libxkbcommon0
       libxrandr2
+      libnspr4
     "
     ;;
   "heroku-24")
